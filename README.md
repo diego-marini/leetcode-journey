@@ -3,3 +3,6 @@ This repository contains my solutions to algorithmic problems as I build strong 
 
 Languages: Python
 Focus: Data Structures & Algorithms
+
+## Solved Problems
+- Two Sum
